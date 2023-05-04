@@ -10,7 +10,7 @@ analyses deprivation at the district level by merging four socio-economic indica
 understand its impact, healthcare provision was contrasted with and compared to level of 
 deprivation in Ghana.
 
-<img src="https://user-images.githubusercontent.com/98338838/236351272-92a0335c-0b28-4d50-bfb4-90fb335f2f5e.jpg" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/98338838/236351272-92a0335c-0b28-4d50-bfb4-90fb335f2f5e.jpg" width="350" height="450">
 
 Welcome to this repository, a collection of data I used for my Masters Dissertation. This contains shape files showcasing Ghana's district boundaries and a dataset of point of interest data highlighting hospitals, clinics, and pharmacies, including large hospitals and census data at the district level. 
 
