@@ -1,7 +1,7 @@
 # Deprivation and Health in Ghana
 ## Assessing Deprivation at the District Level using Census Data from 2021 to Examine Access to Health Care in Ghana.
 
-<img src="https://user-images.githubusercontent.com/98338838/236351272-92a0335c-0b28-4d50-bfb4-90fb335f2f5e.jpg" align="left" width="400" height="490">
+<img src="https://user-images.githubusercontent.com/98338838/236351272-92a0335c-0b28-4d50-bfb4-90fb335f2f5e.jpg" align="left" width="400" height="520">
 
 
 
