@@ -20,5 +20,3 @@ Please note that while I have gathered this data during my Masters degree, **I d
 I will continue to update it as I discover new and useful information relevant to Ghana. 
 
 Access the full paper here: https://populationgeographies.com/2023/02/27/bob-woods-postgraduate-dissertation-prize-winner/
-
-Cheers!
