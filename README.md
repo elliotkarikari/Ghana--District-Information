@@ -12,7 +12,7 @@ deprivation in Ghana
 
 Welcome to this repository, a collection of data I used for my Masters Dissertation. This contains shape files showcasing Ghana's district boundaries and a dataset of point of interest data highlighting hospitals, clinics, and pharmacies, including large hospitals and census data at the district level. 
 
-Please note that while I have gathered this data during my Masters degree, I do not own any of the information contained within this repository. 
+Please note that while I have gathered this data during my Masters degree, **I do not own any of the information contained within this repository.** 
 I will continue to update it as I discover new and useful information relevant to Ghana. 
 
 Cheers!
