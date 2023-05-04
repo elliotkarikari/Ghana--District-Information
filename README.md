@@ -1,4 +1,6 @@
-# Ghana_District_Information
+# Deprivation and Health in Ghana
+## Assessing Deprivation at the District Level using Census Data from 2021 to Examine Access to Health Care in Ghana.
+
 
 Welcome to this repository, a collection of shape files showcasing Ghana's district boundaries and a dataset of point of interest data highlighting hospitals, clinics, and pharmacies, including large hospitals. 
 
