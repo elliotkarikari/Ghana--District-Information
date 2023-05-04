@@ -2,7 +2,8 @@
 ## Assessing Deprivation at the District Level using Census Data from 2021 to Examine Access to Health Care in Ghana.
 
 Understanding the regional variation of a country’s socio-economic disadvantage is crucial for 
-successful resource allocation in its growth. Though the measure of deprivation is not new in 
+successful resource allocation in its growth. Though the measure of deprivation is not new in ![Deprivation Index](https://user-images.githubusercontent.com/98338838/236351272-92a0335c-0b28-4d50-bfb4-90fb335f2f5e.jpg)
+
 Ghana, previous research indicates that the one-dimensional income technique is extensively 
 used to identify the poor on a regional scale. This study using the Index of Multiple Deprivation, 
 analyses deprivation at the district level by merging four socio-economic indicators from Ghana’s 
