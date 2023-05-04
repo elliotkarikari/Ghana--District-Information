@@ -19,4 +19,6 @@ Welcome to this repository, a collection of data I used for my Masters Dissertat
 Please note that while I have gathered this data during my Masters degree, **I do not own any of the information contained within this repository.** 
 I will continue to update it as I discover new and useful information relevant to Ghana. 
 
+Access the full paper here: https://populationgeographies.com/2023/02/27/bob-woods-postgraduate-dissertation-prize-winner/
+
 Cheers!
